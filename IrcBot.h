@@ -1,8 +1,8 @@
 /*
  * IrcBot.h
  *
- *  Created on: 15 Jul 2011
- *      Author: Tyler Allen
+ * MIT License (MIT)
+ * Copyright (c) 2014 Mike Teehan <mike.teehan@gmail.com>
  */
  
 #ifndef IRCBOT_H_

@@ -1,8 +1,8 @@
 /*
  * IrcBot.cpp
  *
- *  Created on: 15 Jul 2011
- *      Author: tyler
+ * MIT License (MIT)
+ * Copyright (c) 2014 Mike Teehan <mike.teehan@gmail.com>
  */
 
 #include "IrcBot.h"

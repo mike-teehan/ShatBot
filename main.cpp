@@ -1,3 +1,10 @@
+/*
+ * main.cpp
+ *
+ * MIT License (MIT)
+ * Copyright (c) 2014 Mike Teehan <mike.teehan@gmail.com>
+ */
+
 #include <iostream>
 #include "IrcBot.h"
 

@@ -1,6 +1,12 @@
 #include <iostream>
+#include "IrcBot.h"
 
-int main(int argc, char **argv) {
-    std::cout << "Hello, world!" << std::endl;
-    return 0;
+using namespace std;
+
+int main()
+{
+	IrcBot bot = IrcBot("irc.freenode.org", "6667", "lgc-weekly", "ShatBot", "ShatBot Maximus");
+	bot.start();
+
+	return 0;
 }
